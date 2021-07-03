@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Claude-Agnes17=Claude-Agnes17)<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?Claude-Agnes17=Claude-Agnes17&show_icons=true)<br>
 <!--
 **Claude-Agnes17/Claude-Agnes17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
